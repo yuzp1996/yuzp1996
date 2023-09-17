@@ -5,20 +5,20 @@ My name is yuzhipeng
 OpenSource project I have participated in
 
 
-## Harbor ![harbor](harbor-horizontal-color.png)
+## Harbor
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
 | community    | [Add multi architecture workgroup](https://github.com/goharbor/community/pull/157)         |
 | community    | [Add proposal for build multi arch images](https://github.com/goharbor/community/pull/159) |
 
-## k8s controller-runtime  ![k8s](icons8-kubernetes.svg)
+## k8s controller-runtime
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
 | controller-runtime | [Fix bug when set renewDeadline greater than leaseDuration the controller will hang and no error will be return](https://github.com/kubernetes-sigs/controller-runtime/pull/1761)|
 
-## Tekton  ![tekton](tekton-horizontal-color.png)
+## Tekton
 
 | Project   | Description                                                                                                                     |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -30,8 +30,8 @@ OpenSource project I have participated in
 | Pipeline  | [When pipelineRun failed to create taskRun then should mark pipelineRun failed](https://github.com/tektoncd/pipeline/pull/5887) |
 | Pipeline  | [Merge affinity from podtempalte and affinity-assistant](https://github.com/tektoncd/pipeline/pull/5306)                        |
 | Pipeline  | [Bubble up the image related error reason to taskrun status](https://github.com/tektoncd/pipeline/pull/4846)                    |
-| Pipeline  | [fix: debug scripts are not mounted to steps with no scripts](https://github.com/tektoncd/pipeline/pull/4776)                   |
-| Pipeline  | [fix typo about ths I think maybe it should be this](https://github.com/tektoncd/pipeline/pull/4775)                            |
+| Pipeline  | [Fix: debug scripts are not mounted to steps with no scripts](https://github.com/tektoncd/pipeline/pull/4776)                   |
+| Pipeline  | [Fix typo about ths I think maybe it should be this](https://github.com/tektoncd/pipeline/pull/4775)                            |
 
 
 
