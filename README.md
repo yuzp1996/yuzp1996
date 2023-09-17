@@ -4,6 +4,14 @@ My name is yuzhipeng
 
 OpenSource project I have participated in
 
+
+## Harbor
+| Project      | Description                                                                                |
+|--------------|--------------------------------------------------------------------------------------------|
+| community    | [Add multi architecture workgroup](https://github.com/goharbor/community/pull/157)         |
+| community    | [Add proposal for build multi arch images](https://github.com/goharbor/community/pull/159) |
+
+
 ## Tekton
 
 | Project    | PR | Description| URL |
@@ -11,6 +19,9 @@ OpenSource project I have participated in
 | January  | $250    |||
 | February | $80     |||
 | March    | $420    |||
+
+
+
 
 
 continue...
