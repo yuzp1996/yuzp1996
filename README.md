@@ -5,20 +5,20 @@ My name is yuzhipeng
 OpenSource project I have participated in
 
 
-## Harbor
+## Harbor ![harbor](harbor-horizontal-color.png)
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
 | community    | [Add multi architecture workgroup](https://github.com/goharbor/community/pull/157)         |
 | community    | [Add proposal for build multi arch images](https://github.com/goharbor/community/pull/159) |
 
-## k8s controller-runtime
+## k8s controller-runtime  ![k8s](icons8-kubernetes.svg)
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
 | controller-runtime | [Fix bug when set renewDeadline greater than leaseDuration the controller will hang and no error will be return](https://github.com/kubernetes-sigs/controller-runtime/pull/1761)|
 
-## Tekton
+## Tekton  ![tekton](tekton-horizontal-color.png)
 
 | Project   | Description                                                                                                                     |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------|
