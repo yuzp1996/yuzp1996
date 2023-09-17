@@ -20,11 +20,21 @@ OpenSource project I have participated in
 
 ## Tekton
 
-| Project    | PR | Description| URL |
-| -------- | ------- |--|--|
-| January  | $250    |||
-| February | $80     |||
-| March    | $420    |||
+| Project   | Description                                                                                                                     |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------|
+| Community | [TEP of adding pipelinerun.spec.taskruntemplate](https://github.com/tektoncd/community/pull/783)                                |
+| Catalog   | [Delete extra characters in roadmap.md file](https://github.com/tektoncd/catalog/pull/854)                                      |
+| Operator  | [Add HA and deployment override configuration](https://github.com/tektoncd/operator/pull/1333)                                  |
+| Operator  | [Add support for --local for ko](https://github.com/tektoncd/operator/pull/949)                                                 |
+| Pipeline  | [Retry using different pod when node shutdown.](https://github.com/tektoncd/pipeline/pull/6572)                                 |
+| Pipeline  | [When pipelineRun failed to create taskRun then should mark pipelineRun failed](https://github.com/tektoncd/pipeline/pull/5887) |
+| Pipeline  | [Merge affinity from podtempalte and affinity-assistant](https://github.com/tektoncd/pipeline/pull/5306)                        |
+| Pipeline  | [Bubble up the image related error reason to taskrun status](https://github.com/tektoncd/pipeline/pull/4846)                    |
+| Pipeline  | [fix: debug scripts are not mounted to steps with no scripts](https://github.com/tektoncd/pipeline/pull/4776)                   |
+| Pipeline  | [fix typo about ths I think maybe it should be this](https://github.com/tektoncd/pipeline/pull/4775)                            |
+
+
+
 
 
 
