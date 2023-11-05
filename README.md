@@ -33,10 +33,11 @@ My name is yuzhipeng
 | Pipeline  | [Fix: debug scripts are not mounted to steps with no scripts](https://github.com/tektoncd/pipeline/pull/4776)                   |
 | Pipeline  | [Fix typo about ths I think maybe it should be this](https://github.com/tektoncd/pipeline/pull/4775)                            |
 
+#### Knative
 
-
-
-
+| Project  | Description                                                                                   |
+|----------|-----------------------------------------------------------------------------------------------|
+| Docs     | [Fix wrong code sample in helloworld-go README.md](https://github.com/knative/docs/pull/5746) |
 
 
 
