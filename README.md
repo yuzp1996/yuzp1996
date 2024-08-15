@@ -40,6 +40,11 @@ My name is yuzhipeng
 | Docs     | [Fix wrong code sample in helloworld-go README.md](https://github.com/knative/docs/pull/5746) |
 
 
+#### openshift-pipelines
+
+| Project  | Description                                                                                   |
+|----------|-----------------------------------------------------------------------------------------------|
+| pipelines-as-code     | [Update resolver.md](https://github.com/openshift-pipelines/pipelines-as-code/pull/1719) |
 
 continue...
 
