@@ -39,7 +39,7 @@ My name is yuzhipeng
 | pipeline  | [Fix: debug scripts are not mounted to steps with no scripts](https://github.com/tektoncd/pipeline/pull/4776)                   |
 | pipeline  | [Fix typo about ths I think maybe it should be this](https://github.com/tektoncd/pipeline/pull/4775)                            |
 
-#### Knative
+#### knative
 
 | Project  | Description                                                                                   |
 |----------|-----------------------------------------------------------------------------------------------|
