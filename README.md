@@ -38,7 +38,7 @@ My name is yuzhipeng
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
-| java | [When building a controller with DefaultControllerBuilder and overriding the queue with withWorkQueue, there will be a thread leakage issue.](https://github.com/kubernetes-client/java/issues/3738)|
+| java | [When building a controller with DefaultControllerBuilder and overriding the queue with withWorkQueue, there will be a thread leakage issue.](https://github.com/kubernetes-client/java/pull/3737)|
 
 #### knative
 
