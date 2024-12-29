@@ -25,6 +25,7 @@ My name is yuzhipeng
 
 | Project      | Description                                                                                |
 |--------------|--------------------------------------------------------------------------------------------|
+| harbor       | [Change commit-msg hook.sh address to right place](https://github.com/goharbor/harbor/pull/21343)         |
 | community    | [Add multi architecture workgroup](https://github.com/goharbor/community/pull/157)         |
 | community    | [Add proposal for build multi arch images](https://github.com/goharbor/community/pull/159) |
 
